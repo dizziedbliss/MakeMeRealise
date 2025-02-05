@@ -20,7 +20,11 @@ Bottom line: we're sharing this to make the world better, not to get sued. If so
 
 ## TL;DR - The "No License" License
 • Free to use and share
+
 • No commercial use
+
 • Keep it open and accessible
+
 • Be cool, don't be greedy
+
 • Make the world better, not richer
