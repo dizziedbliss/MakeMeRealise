@@ -6,7 +6,7 @@ You know how people say "sharing is caring"? Well, that's exactly what this proj
 
 And speaking of selling – seriously? You're thinking about monetizing a project that's meant to make people realize their impact on the world? That's like charging people to tell them they're wasting water. The irony would be delicious if it wasn't so sad.
 
-So here's the deal: this project is free. Like "free as a bird" free, not "free trial that asks for your credit card" free. Use it, share it, improve it, but keep it free. Because if you try to sell it, well... I'll have to make you realize how karma works. 
+So here's the deal: this project is free. Like "free as a bird" free, not "free trial that asks for your credit card" free. Use it, share it, improve it, but keep it free. Because if you try to sell it, well... I'll have to make you realize how karma works.
 
 By using this project, you're basically pinky-promising to be cool about it. Don't be that person who ruins it for everyone else. We're trying to make the world better here, not fund someone's next yacht.
 
@@ -19,6 +19,7 @@ Think of it as a "what you see is what you get" deal. No fancy guarantees, no pr
 Bottom line: we're sharing this to make the world better, not to get sued. If something breaks, well... you get to keep both pieces! Consider this your friendly reminder that free code, like free advice, comes with no strings attached – except for all those strings we mentioned about not being greedy. Those strings are important.
 
 ## TL;DR - The "No License" License
+
 • Free to use and share
 
 • No commercial use
